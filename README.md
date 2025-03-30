@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Tailwind CSS and CSS Frameworks**
 
-<img src=https://giphy.com/embed/QDjpIL6oNCVZ4qzGs7>
+img align="right" src=https://giphy.com/embed/QDjpIL6oNCVZ4qzGs7 alt="peguin typing">
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sbubz-XI](https://github.com/Sbubz-XI)
 
