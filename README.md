@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Tailwind CSS and CSS Frameworks**
 
-<iframe src="https://giphy.com/embed/QDjpIL6oNCVZ4qzGs7" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-work-computer-working-QDjpIL6oNCVZ4qzGs7">via GIPHY</a></p>
+<img src=https://giphy.com/embed/QDjpIL6oNCVZ4qzGs7>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sbubz-XI](https://github.com/Sbubz-XI)
 
